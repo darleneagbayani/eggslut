@@ -1,0 +1,41 @@
+.ui.borderless.top.menu {
+  border: none;
+  box-shadow: none;
+  margin-bottom: 0px;
+  background-color: #FFE500;
+  padding-top: 28px;
+  padding-bottom: 28px;
+  font-family: Trebuchet MS;
+  font-size: 25px;
+}
+
+.ui.small.image {
+  width: 133px;
+}
+
+.icons {
+  background-color: #000000;
+  float: right;
+  padding-bottom: 85px;
+}
+
+.own-class {
+  color: white;
+}
+
+.footer-background {
+  background-color: #000000;
+  color: white;
+  margin-top: 85px;
+  padding-bottom: 85px;
+  padding-right: 150px;
+}
+
+body {
+  background-color: #000000;
+}
+
+.text {
+  padding-top: 00px;
+  padding-left: 200px;
+}
